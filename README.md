@@ -1,9 +1,9 @@
 <h1 align="center">Hey folks 👋, I'm Amit Baraiya</h1>
-<h3 align="center">A passionate Developer and Programmer from India</h3>
+<h3 align="center">PROGRAMMER AND FRONT-END DEVELOPER</h3>
 
-- 👨‍💻 I'm working on IOT technologies and i worked on many projects.
+- 👨‍💻 MY SITE
      
-     [Click Here](https://amitbaraiya.github.io/smarthanger)
+     [Click Here](https://amitbaraiya.github.io/amitbaraiya.github.io)
 
 - 📫 How to reach me **amitbaraiya82@gmail.com**
 
